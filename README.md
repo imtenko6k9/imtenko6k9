@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imtenko6k9
 - 👀 I’m interested in ... learning other language
-- 🌱 I’m currently learning ...java, html and css / after effects
+- 🌱 I’m currently learning ...java, html and css / after effects / linux
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...tenko
