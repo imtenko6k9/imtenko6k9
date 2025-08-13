@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yahiko
+- 👋 Hi, I’m @yandex
 - 👀 I’m interested in ... learning other language
 - 🌱 I’m currently learning ...java, html and css / after effects / linux
 - 💞️ I’m looking to collaborate on ... 
